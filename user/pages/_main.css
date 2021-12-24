@@ -1,0 +1,57 @@
+body{
+    background-color: #f8f8f8;
+}
+.sign-w{
+    width: 900px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: #fff;
+    border:none;
+    box-shadow: 0px 15px 16.83px 0.17px rgb(0 0 0 / 5%);
+
+}
+
+.sign-w .container{
+    width: 90%;
+    height: inherit;
+}
+.sign-w .container .row{
+    height: inherit;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+
+}
+.sign-w input {
+    height: 50px;
+    margin-top: 20px;
+    outline: none;
+}
+.sign-w .sub-but{
+    background-color: #6dabe4;
+    color: #fff;
+    margin-top: 60px;
+    width: 40%;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+}
+.nav-header{
+    background-color: #fff;
+}
+.navbar{
+
+    width: 80%;
+    box-shadow: 0px 15px 16.83px 0.17px rgb(0 0 0 / 5%) !important;
+}
+.navbar-brand{
+    font-size: 2.5rem !important;
+    color: #000;
+}
+.nav-item{
+    font-size: 1.5rem !important;
+}
+.nav-item a{
+    text-decoration: none;
+    color: #000;
+}
